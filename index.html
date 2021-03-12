@@ -24,7 +24,7 @@
     <script>
         function loading() {
             document.getElementsByClassName('avatar')[0].style.display = 'block';
-
+            document.getElementsByClassName('loading')[0].style.display = 'none';
         }
     </script>
 </head>
@@ -64,7 +64,13 @@
             <!-- 个人肖像 -->
             <section class="me">
                 <section class="portrait">
-                   
+                    <div class="loading">
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                        <span></span>
+                    </div>
                     <!-- 头像照片 -->
                     <img class="avatar" src="assets/images/avatar.jpg" onload="loading()">
                   
