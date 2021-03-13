@@ -37,7 +37,7 @@
         <section class="side" id="side">
 
             <!-- 左栏固定开关，记得及时删除这段代码 Start-->
-            <label class="switch" style="display: none;" onchange="switchFixed()">
+            <!-- label class="switch" style="display: none;" onchange="switchFixed()">
                 <script type="text/javaScript">
                     function switchFixed(){
                         var value = document.getElementById('side').style.position === 'fixed' ? 'absolute' : 'fixed';
@@ -50,7 +50,7 @@
             <style>
                 @media (min-width: 	750px){
                     .switch{position:relative;display:inline-block!important;width:60px;height:34px;}
-                    .switch input{display:none;}
+                    .switch input{display:block;}
                     .slider{position:absolute;cursor:pointer;top:0;left:0;right:0;bottom:0;background-color:#ccc;-webkit-transition:.4s;transition:.4s;}
                     .slider:before{position:absolute;content:"";height:26px;width:26px;left:4px;bottom:4px;background-color:white;-webkit-transition:.4s;transition:.4s;}
                     input:checked + .slider{background-color:#1abc9c;}
@@ -60,6 +60,18 @@
                 }
             </style>
             <!-- 左侧固定开关，记得及时删除这段代码 End-->
+
+
+            <!-- 语言切换 -->
+            <section class="SWITCHLANGUAGES-unit" style="display: block">
+                <h2>Sprache wählen:
+                <span class="SWITCHLANGUAGES">
+                <a href="index.html" target="_self">English</a>&nbsp;
+                <a href="ch.html" target="_self">中文</a>          
+                </span>                
+                <hr/>
+                <br> </br>
+            </section>
 
             <!-- 个人肖像 -->
             <section class="me">
@@ -351,12 +363,6 @@
     <!-- 侧栏 -->
     <aside>
         <ul>
-            <li>
-                <a href="index.html" target="_self">English</a>
-            </li>
-            <li>
-                <a href="ch.html" target="_self">中文</a>
-            </li>
             <li>
                 <a href="https://www.instagram.com/xie1995j" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
             </li>
