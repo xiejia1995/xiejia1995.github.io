@@ -37,7 +37,7 @@
         <section class="side" id="side">
 
             <!-- 左栏固定开关，记得及时删除这段代码 Start-->
-            <label class="switch" style="display: none;" onchange="switchFixed()">
+            <!-- label class="switch" style="display: none;" onchange="switchFixed()">
                 <script type="text/javaScript">
                     function switchFixed(){
                         var value = document.getElementById('side').style.position === 'fixed' ? 'absolute' : 'fixed';
@@ -58,8 +58,20 @@
                     input:checked + .slider:before{-webkit-transform:translateX(26px);-ms-transform:translateX(26px);transform:translateX(26px);}.slider.round{border-radius:34px;}
                     .slider.round:before{border-radius:50%;}
                 }
-            </style>
+            </style-->
             <!-- 左侧固定开关，记得及时删除这段代码 End-->
+
+
+            <!-- 语言切换 -->
+            <section class="SWITCHLANGUAGES-unit">
+                <h2>Choose Language:
+                <span class="SWITCHLANGUAGES">
+                <a href="ch.html" target="_self">中文</a>
+                <a href="de.html" target="_self">Deutsch</a>          
+                <hr/>
+                <br> </br>
+            </section>
+
 
             <!-- 个人肖像 -->
             <section class="me">
@@ -95,9 +107,7 @@
                         <span>Heidelberg</span>
                     </li>
                     <li>
-                        <label>PLZ
-
-</label>
+                        <label>PLZ</label>
                         <span>69126</span>
                     </li>
                 </ul>
@@ -350,12 +360,6 @@
     <!-- 侧栏 -->
     <aside>
         <ul>
-            <li>
-                <a href="ch.html" target="_self">中文</a>
-            </li>
-            <li>
-                <a href="de.html" target="_self">Deutsch</a>
-            </li>
             <li>
                 <a href="https://www.instagram.com/xie1995j" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
             </li>
