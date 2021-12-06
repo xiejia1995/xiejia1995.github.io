@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: 我
+title: 简介
 ---
 
 > hi，欢迎来访，这是一个简单搭建的小站。  
@@ -10,15 +10,18 @@ title: 我
 
 ## 我是
 
-- 人文学科研究者
+- 跨文化研究者
 - 数字人文工作者
 - 多语言爱好者
 - 非著名笑话大师
 
-## 链接
+## 我的
 
 - GitHub: [xiejia1995](https://github.com/xiejia1995)
 - 个人简历: [点此查看](https://xiejia1995.github.io/)
+  
+## 链接
+- [Krob Krua](https://boundarytest.wordpress.com/)  
   
     
     
