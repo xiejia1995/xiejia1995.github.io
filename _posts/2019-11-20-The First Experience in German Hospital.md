@@ -3,7 +3,7 @@ layout: mypost
 title: The First Experience in German Hospital
 categories: [杂陈]
 ---
-![img](XJKRANK.PNG)
+![Myself](XJKRANK.png) 
 
 This small article tells my 5-days experience in Hautklink in Heidelberg.
 
