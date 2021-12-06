@@ -3,18 +3,6 @@ layout: mypost
 title: 留言板
 ---
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
-    <link rel="stylesheet" href="style/base.css">
-    <link rel="stylesheet" href="style/global.css">
-    <script src="js/vue.js" charset="utf-8"></script>
-</head>
-<body>
     <div id="app" class="wrapper">
         <!-- 头部组件  -->
         <msg-header></msg-header>
@@ -32,25 +20,8 @@ title: 留言板
         <msg-footer></msg-footer>
     </div>
 
-    <template id="header">
-        <div class="header">
-            <h1><a href="">LD Stuido留言板</a></h1>
-            <h2>很靠谱的留言板</h2>
-            <img src="images/hanoi.jpg" alt="" />
-            <ul>
-                <li><a href="index.php">首页</a></li>
-                <li><a href="about.php">关于</a></li>
-            </ul>
-        </div>
-    </template>
 
-    <template id="footer">
-        <div class="footer">
-            <p><a href="">LD Studio</a> &copy; 2009-2012 版权所有</p>
-        </div>
-    </template>
-
-    <template id="list">
+    <div id="list">
         <div>
             <div class="msg" v-for="item in msg">
                 <h2>{{item.title}}</h2>
@@ -58,9 +29,9 @@ title: 留言板
                 <p>{{item.content}}</p>
             </div>
         </div>
-    </template>
+    </div>
 
-    <template id="form">
+    <div id="form">
         <div class="msg_form">
            <h2>发表留言</h2>
            <form action="" method="POST" @submit.prevent="submit">
@@ -84,14 +55,14 @@ title: 留言板
                        <textarea name="content" ref="content" id="" cols="70" rows="5"></textarea>
                    </li>
                    <li>
-                       <input type="submit" value="提 交" name="btn" class="btn" />
+                       <input type="submit" value="提交" name="btn" class="btn" />
                    </li>
                </ul>
            </form>
        </div>
-    </template>
+    </div>
 
-    <template id="sidebar">
+    <div id="sidebar">
         <div class="sidebar">
            <h2>最新留言</h2>
            <ul>
@@ -100,7 +71,7 @@ title: 留言板
                </li>
            </ul>
        </div>
-    </template>
+    </div>
     <script>
         var vm = new Vue({
             el : "#app",
@@ -127,13 +98,13 @@ title: 留言板
             },
             components : {
                 "msg-header" : {
-                    template : "#header"
+                    div : "#header"
                 },
                 "msg-footer" : {
-                    template : "#footer"
+                    div : "#footer"
                 },
                 "msg-list" : {
-                    template : "#list",
+                    div : "#list",
                     props : {
                         msg : {
                             type : Array,
@@ -142,7 +113,7 @@ title: 留言板
                     }
                 },
                 "msg-form" : {
-                    template : "#form",
+                    div : "#form",
                     methods : {
                         submit : function(){
                             // alert('submit');
@@ -164,7 +135,7 @@ title: 留言板
                     }
                 },
                 "msg-sidebar" : {
-                    template : "#sidebar",
+                    div : "#sidebar",
                     props : {
                         msg : Array
                     }
@@ -172,5 +143,4 @@ title: 留言板
             }
         });
     </script>
-</body>
-</html>
+
