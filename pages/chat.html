@@ -8,15 +8,19 @@ title: 留言板
     >
     <li>
     <label>留言:</label>
-    <textarea name="message"></textarea>
+        <textarea name="message" placeholder="请在此输入内容"></textarea>
     </li>
+    <h1>
+        <span></span>
+        <img src="{{site.baseurl}}/static/img/loading.svg">
+    </h1>
     <li>
     <label>昵称:</label>
-    <input name="name" type="text" required/>
+        <input name="name" type="text" placeholder="name" required/>
     </li>
     <li>
-    <label>邮箱: </label>
-    <input name="email" type="email" required/>
+    <label>联系方式: </label>
+        <input name="email" type="text" placeholder="email" required/>
     </li>
     <!-- your other form fields go here -->
     <button type="submit">提交</button>
