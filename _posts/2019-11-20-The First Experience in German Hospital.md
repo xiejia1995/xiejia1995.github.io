@@ -5,7 +5,7 @@ categories: [杂陈]
 ---
 ![Myself](XJKRANK.png) 
 
-This small article tells my 5-days experience in Hautklink in Heidelberg.
+> This small article tells my 5-days experience in Hautklink in Heidelberg.
 
 Perhaps because of the big stress of the exams, I got severe Zoster, which was quite painful! The day after my exam, i went to the Hautklinik (the skin clinic)for emergency treatment. The doctor suggested that I should stay in hospital for 5 days. Immediately, i fetched my clothing and washing staff, and then started my “hospital trip”.
 
