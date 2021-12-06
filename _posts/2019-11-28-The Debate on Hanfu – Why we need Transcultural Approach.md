@@ -4,7 +4,7 @@ title: The Debate on Hanfu – Why we need Transcultural Approach
 categories: [日思]
 ---
 
-Today, a piece of news on the Chinese social media caught my attention. It says that a couple were refused to get the marriage certificate by the local government department because they had taken their photo in Hanfu (Chinese traditional clothing), which was judged as “informal” for an official certificate. They had to change the photo in the Western suit finally.
+> Today, a piece of news on the Chinese social media caught my attention. It says that a couple were refused to get the marriage certificate by the local government department because they had taken their photo in Hanfu (Chinese traditional clothing), which was judged as “informal” for an official certificate. They had to change the photo in the Western suit finally.
 
 A fierce debate happened immediately among the netizens. The biggest questions were as following: Is Hanfu Chinese traditional clothing? Why is Western-style suit formal while Hanfu informal? Does this situation mean the surrender into western culture?
 
