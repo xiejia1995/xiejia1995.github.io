@@ -3,7 +3,25 @@ layout: mypost
 title: 留言板
 ---
 
-<p>留言功能尚未开发。。。</p>
 
-<p><a href="{{ site.tucaoUrl }}">额(⊙﹏⊙)</a></p>
-
+<div class="page liuyanban">
+<form action="" method="post" class="smart-green">
+    <h1>留言板</h1>
+    <label>
+    <span>姓名 :</span>
+    <input id="name" type="text" name="name" placeholder="Your Full Name" />
+    </label>
+    <label>
+    <span>邮箱 :</span>
+    <input id="email" type="email" name="email" placeholder="Valid Email Address" />
+    </label>
+    <label>
+    <span>留言 :</span>
+    <textarea id="message" name="message" placeholder="Your Message to Us"></textarea>
+    </label>
+    <label>
+    <span>&nbsp;</span>
+    <input type="button" class="button" value="提交" />
+    </label>
+</form>
+</div>
