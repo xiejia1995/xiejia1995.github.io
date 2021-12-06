@@ -6,19 +6,23 @@ title: 留言板
 
 <div class="page liuyanban">
 <form action="" method="post" class="smart-green">
-    <h1>留言板</h1>
-    <label>
-    <span>姓名 :</span>
-    <input id="name" type="text" name="name" placeholder="Your Full Name" />
-    </label>
+    <h1>留下你的消息</h1>
+    <li hidden>
+ 	   <label>
+ 	   <span>昵称 :</span>
+ 	   <input id="name" type="text" name="name" placeholder="Name" />
+ 	   </label>
     <label>
     <span>邮箱 :</span>
-    <input id="email" type="email" name="email" placeholder="Valid Email Address" />
+    <input id="email" type="email" name="email" placeholder="Email" />
     </label>
+    </li>
+<li>
     <label>
     <span>留言 :</span>
-    <textarea id="message" name="message" placeholder="Your Message to Us"></textarea>
+    <textarea id="message" name="message" placeholder="Content"></textarea>
     </label>
+</li>
     <label>
     <span>&nbsp;</span>
     <input type="button" class="button" value="提交" />
