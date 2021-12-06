@@ -1,11 +1,11 @@
 encoding: utf-8
 
 # SEO相关信息
-title: XJ Blog
-description: XJ
-keywords: Blog, Story
+title: XJ Home
+description: XJ personal website
+keywords: Blog, Story, XJ
 author: XJ
-footerText: 'presented by XJ'
+footerText: 'presented by @XJ. updated 2021'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
