@@ -6,14 +6,19 @@ title: 留言板
     action="https://formspree.io/f/xrgjgzgv"
     method="POST"
     >
-    <label>Feedback:</label>
+    <li>
+    <label>留言:</label>
     <textarea name="message"></textarea>
-    <label>Your Name:</label>
+    </li>
+    <li>
+    <label>昵称:</label>
     <input name="name" type="text" required/>
-    <label>Your Email: </label>
+    </li>
+    <li>
+    <label>邮箱: </label>
     <input name="email" type="email" required/>
-    <button>submit</button>
+    </li>
     <!-- your other form fields go here -->
-    <button type="submit">Send</button>
+    <button type="submit">提交</button>
 </form>
 
