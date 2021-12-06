@@ -3,10 +3,10 @@ layout: mypost
 title: 我
 ---
 
-> Hello 陌生人，欢迎访问 XJ的个人网页
+> hi，欢迎访问 XJ的个人网页，  
+> 这是一个简单搭建的小站。
 
-请在[留言板](chat.html)留言。
-
+有什么想法请在[留言板](chat.html)留言。
 
 ## 我是
 
@@ -19,7 +19,8 @@ title: 我
 
 - GitHub: [xiejia1995](https://github.com/xiejia1995)
 - 个人简历: [点此查看](https://xiejia1995.github.io/)
-
-
-
+  
+    
+    
+    
 鸣谢：静态网页托管服务[GitHub Pages](https://github.com/pages); 本网站模板[tmaize-blog](https://github.com/TMaize/tmaize-blog)。
