@@ -4,31 +4,18 @@ title: Fellow Travellers (길동무들)
 categories: [札记]
 ---
 
-## **Some Features of the Hero Description in Novels of the Early Period of the DPRK:**
-
-## Taking the example of &quot;Fellow Travellers&quot;
+# **Some Features of the Hero Description in Novels of the Early Period of the DPRK:** Taking the example of &quot;Fellow Travellers&quot;
 
 Jia XIE
 
 **Abstract** : Literature cannot be analyzed without setting it back to a particular background. North Korean novels in the 1950-60s were with salient features which will be discussed in this paper in terms of the way heroes were constructed. Meanwhile, a brief comparative study on the DDR and the PRC will be mentioned in the latter part.
 
-**Keywords** : Literature, Fellow Travellers, North Korea, Juche Ideology.
+**Keywords** : Literature, Fellow Travellers, North Korea, Juche Ideology
 
-# **Table of Contents**
+### **Table of Contents**
+[toc]
 
-[Introduction 3](#_Toc4878673)
-
-[North Korean Novels in the 1950s and 60s 3](#_Toc4878674)
-
-[The Depiction of Hero in &quot;Fellow Travellers&quot; 5](#_Toc4878675)
-
-[&quot;Aufbauliterature&quot; and &quot;Seventeen-Year Literature&quot; 7](#_Toc4878676)
-
-[Conclusion 8](#_Toc4878677)
-
-[Bibliography 10](#_Toc4878678)
-
-**Introduction**
+### **Introduction**
 
 As World War II ended in the 1940s, the main powers in the world went into two camps that formed the Cold War pattern. Correspondingly, the literature tendency on both sides appeared very different. In the Socialist countries, no matter in the DPRK, PRC, or DDR, the literary works in different languages had the homogeneous theme and similar writing styles. Novels were composed by the socialist writers to express their thought and perception of the newly-established states. The features of these works are obvious, constituting the mutual literary memory of that age in the socialist countries.
 
@@ -38,7 +25,7 @@ Since a long time, this type of novels had been underestimated by literary schol
 [2](#sdfootnote2anc)
  Literature in the DPRK in the 1950s has certain comparability with that in the PRC and DDR for they were all the reflection of the respective situation where a new Socialist government newly began after a war. North Korean novels have their own characteristics while sharing some similarities with Chinese and German ones. With a transcultural approach, the research on North Korean literature can beneficially enrich the comparative and world literary theory.
 
-**North Korean Novels in the 1950s and 60s**
+### **North Korean Novels in the 1950s and 60s**
 
 Immediately after the liberation from Japanese colonization in 1945, Koreans were dedicated to building an entirely independent nation. Efforts like the purification of Korean script seemed to lead to a break from the classical literature. To pick up the traditional one again, the North Koreans began to revise and translate the classics written in _hanmun_. It was part of the independent process and they did value the literary heritage of former time, but meanwhile many of the former writers were defined as exploiters who had been the ruling class before. The North Korean novels turned into a unique direction in the 1950-60s.
 
@@ -51,7 +38,7 @@ Influenced by the Soviet literature mode, the so-called socialist realism style 
 [5](#sdfootnote5anc)
  Overemphasized political nature surpassed any other characteristics. In the 1950s, as Kim Il-Sung put forward the Juche Ideology, this national philosophy had an impact on every aspect of the state. In 1957, the first &quot;Chollima Movement&quot; started. Combining the Marxist literary guidance and the Juche spirit, Literature in the DPRK demonstrated its uniqueness. Themes of literature covered all the socialist propaganda which can display the superiority of socialism and encourage people to join in the socialist reform, asides from that, anti-South literature was also a tendency. Moreover, the party writers were a main group of writing, including Kim Byong-hun, Han Sol-ya, Lee Gi-yeong, and so on who were essential members of the party.
 
-**The Depiction of Hero in &quot;Fellow Travellers&quot;**
+### **The Depiction of Hero in &quot;Fellow Travellers&quot;**
 
 Fellow Travellers (길동무들), written by Kim Byong-hun in 1960, shortly after the first five-year plan of the DPRK, is a typical novel under the aesthetics of Juche ideology. The author, Kim, himself was born and educated on the peninsula during the Japanese occupation and later elected as the chairman of the General Federation of Korean Literature and Art and the candidate of the Central Committee, in short words, an important member of the communist party of the DPRK. A writer&#39;s production is tightly associated with his identity. Standing at this position, Kim devoted his effort into the literary creation fully following the instruction of the central leaders. On the other hand, after the Korean war, both north and south were on the rubble, everything in need of reconstruction. The literary works encouraging to construct perfectly met the need of the situation.
 
@@ -71,7 +58,7 @@ Furthermore, the main characters in the novels come from a common family, instea
 
 The so-called hero is not with the noble meaning in this case. In the text of &quot;Fellow Travellers&quot;, the writer says by Myong-suk&#39;s words that heroism should be avoided. Heroism was somewhat contradictory to the big environment of collectivism in the DPRK. Nevertheless, the nation and the new government still needed heroes to play the role of appealing to the public to devote for socialism. Thus, creating unheroic heroes was the main tool in literary writing, who were imagined to be with the perfect sacrificing idea and the understanding of patriotism.
 
-&quot; **Aufbauliterature&quot; and &quot;Seventeen-Year Literature&quot;**
+### **&quot; Aufbauliterature&quot; and &quot;Seventeen-Year Literature&quot;**
 
 Looking throughout the states that had a similar experience, the literary trend parallelly shares some specific features. The discourse about the literature of them has lasted for decades. Although its definition still controversial, the term &quot;Socialist Realism&quot; can roughly refer to the writing method under the party lines and the literature appearance in the Socialist countries. The writing methods and the way of constructing heroes can be comparatively analyzed.
 
@@ -79,14 +66,14 @@ In the DDR, the literature of the 1950s has been categorized as &quot;Aufbaulite
 
 Peasants were the most common leading roles in the Chinese narrative. To refer to the period between the establishment of the new China in 1949 and the start of the Cultural Revolution in 1967, the term &quot;Seventeen-Year Literature&quot; has been mostly agreed by scholars of Chinese modern and contemporary literature in the PRC. Chinese people were of great enthusiasm for building a brand-new state. Several books written by peasant-born writers came out and became well-known for a time, regarded as &quot;red classics&quot; by the readers later. The famous writers like Zhao Shuli, led an influential literary school named &quot;Potato school&quot;, whose chinoiserie touched the common peasants and spread widely.
 
-**Conclusion**
+### **Conclusion**
 
 The former studies tended to ignore the particular time and circumstance where the literary works of the DPRK emerged. North Korean novels in the 1950-60s recorded the sensate experience of the intellectuals after witnessing the imperial invasion, civil war, and the new state, though full of political aims and lacked in art value. Influenced by the Soviet model, North Korean literature began a unique road on the novels writing. To depict the heroes in the socialist reform, the party writers carefully set the roles in the novels, taking the roles&#39; background, appearance, class, and the aspiration to the party into consideration. These novels show some anti-tradition and anti-Confucius spirit while following the policy of the Workers&#39; Party of Korea.
 
 The accurate term &quot;Aufbauliterature&quot; can be applied to the literary tendency in all three countries (that are the DRPK, DDR, and PRC) in the early period after their establishment. To make a comparison, all of them are the collective memory of one generation after the big wars. However, excessively involving in politics made them for a long time drop into a stillness. More observation and reading by the latter readers are continuously in need.
 
 
-### Notes:
+### **Notes:**
 [1](#sdfootnote1anc)Alexander Saechtig, _Schriftstellerische Praxis in Der Literatur Der Ddr Und Der Volksrepublik China Während Der Fünfziger Und Frühen Sechziger Jahre : Möglichkeiten, Entwicklungen Und Tendenzen_, Germanistische Texte Und Studien (Hildesheim ; Zürich ; New York: Georg Olms Verlag, 2017).
 
 [2](#sdfootnote2anc)Alzo David-West, &quot;North Korean Aesthetic Theory: Aesthetics, Beauty, and &#39;Man&#39;,&quot; _The Journal of Aesthetic Education_ 47, no. 1 (2013).
@@ -103,23 +90,3 @@ The accurate term &quot;Aufbauliterature&quot; can be applied to the literary te
 
 [8](#sdfootnote8anc)David-West, &quot;North Korean Aesthetic Theory: Aesthetics, Beauty, and &#39;Man&#39;.&quot;
 
-
-**Bibliography**
-
-David-West, Alzo. &quot;North Korean Aesthetic Theory: Aesthetics, Beauty, and &#39;Man&#39;.&quot; _The Journal of Aesthetic Education_ 47, no. 1 (2013): 104-10.
-
-———. &quot;North Korean Literature and &#39;Theoretical Problems of Literary Studies&#39;.&quot; [In English]. _Journal of Asian and African Studies_ 47 (2012): 236-49.
-
-———. &quot;The North Korean Positive Hero in &quot;the People of the Fighting Village.&quot; _North Korean Review_ 3, no. 2 (2007): 101-18.
-
-Gabroussenko, Tatiana _Soldiers on the Cultural Front: Developments in the Early History of North Korean Literature and Literary Policy._ Honolulu: University of Hawaii Press, 2010.
-
-Hong, Yang-hee. &quot;Debates About &#39;a Good Wife and Wise Mother&#39; and Tradition in Colonial Korea.&quot; _The Review of Korean Studies_ 11, no. 4 (2008): 41-60.
-
-Juraga, Dubravka, and M. Keith Booker. _Socialist Cultures East and West: A Post-Cold War Reassessment._ Praeger, 2002.
-
-Myer, Brian. _Han Sorya and North Korean Literature: The Failure of Socialist Realism in the Dprk._ Cornell East Asia Series. New York: Cornell University East Asia Program, 1994.
-
-Saechtig, Alexander. _Schriftstellerische Praxis in Der Literatur Der Ddr Und Der Volksrepublik China Während Der Fünfziger Und Frühen Sechziger Jahre : Möglichkeiten, Entwicklungen Und Tendenzen._ Germanistische Texte Und Studien. Hildesheim ; Zürich ; New York: Georg Olms Verlag, 2017. (in German)
-
-Wikipedia, accessed 20.03, 2019, [https://ko.wikipedia.org/wiki/%EB%B0%95%EC%94%A8%EC%A0%84](https://ko.wikipedia.org/wiki/%EB%B0%95%EC%94%A8%EC%A0%84). (in Korean)
