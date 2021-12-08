@@ -12,9 +12,6 @@ Jia XIE
 
 **Keywords** : Literature, Fellow Travellers, North Korea, Juche Ideology
 
-### **Table of Contents**
-[toc]
-
 ### **Introduction**
 
 As World War II ended in the 1940s, the main powers in the world went into two camps that formed the Cold War pattern. Correspondingly, the literature tendency on both sides appeared very different. In the Socialist countries, no matter in the DPRK, PRC, or DDR, the literary works in different languages had the homogeneous theme and similar writing styles. Novels were composed by the socialist writers to express their thought and perception of the newly-established states. The features of these works are obvious, constituting the mutual literary memory of that age in the socialist countries.
@@ -58,7 +55,7 @@ Furthermore, the main characters in the novels come from a common family, instea
 
 The so-called hero is not with the noble meaning in this case. In the text of &quot;Fellow Travellers&quot;, the writer says by Myong-suk&#39;s words that heroism should be avoided. Heroism was somewhat contradictory to the big environment of collectivism in the DPRK. Nevertheless, the nation and the new government still needed heroes to play the role of appealing to the public to devote for socialism. Thus, creating unheroic heroes was the main tool in literary writing, who were imagined to be with the perfect sacrificing idea and the understanding of patriotism.
 
-### **&quot; Aufbauliterature&quot; and &quot;Seventeen-Year Literature&quot;**
+### **&quot;Aufbauliterature&quot; and &quot;Seventeen-Year Literature&quot;**
 
 Looking throughout the states that had a similar experience, the literary trend parallelly shares some specific features. The discourse about the literature of them has lasted for decades. Although its definition still controversial, the term &quot;Socialist Realism&quot; can roughly refer to the writing method under the party lines and the literature appearance in the Socialist countries. The writing methods and the way of constructing heroes can be comparatively analyzed.
 
