@@ -3,7 +3,7 @@ layout: mypost
 title: The Blacks of Premodern China
 categories: [札记]
 ---
-Reading the Blacks of Premodern China
+Reading *the Blacks of Premodern China*
 
 This book is written by Wyatt. Here are some reading responses to his book.
 

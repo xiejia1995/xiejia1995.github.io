@@ -69,11 +69,6 @@ Walker fails to deﬁne what he means by the term “industrial disease,” whic
 
 
 ## Handout
-Heidelberg University 19.01.2019    
-Cluster of Excellence: Asia and Europe in a Global Context    
-Seminar: Technology and Nature in Japan    
-Lecturer: Prof. Setoguchi    
-Presenter: Jia XIE
 
 *Conclusion of Toxic Archipelago*
 
