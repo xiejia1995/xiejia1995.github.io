@@ -8,6 +8,15 @@ title: 简介
 
 有什么想对我说的请在[留言板](chat.html)留言。
 
+## 关于归类
+
+**拾花**    我的诗文随笔
+**新知**    探索新的知识
+**日思**    日常思考记录
+**札记**    书影音观后感
+**杂陈**    杂念杂感杂记
+
+
 ## 我是
 
 - 跨文化研究者
@@ -20,7 +29,7 @@ title: 简介
 - GitHub: [xiejia1995](https://github.com/xiejia1995)
 - 个人简历: [点此查看](https://xiejia1995.github.io/)
   
-## 链接
+## 友情链接
 - [Krob Krua](https://boundarytest.wordpress.com/)  
   
     
