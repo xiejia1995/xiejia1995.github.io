@@ -10,11 +10,11 @@ title: 简介
 
 ## §关于归类
 
-- **拾花**    我的诗文随笔
-- **新知**    探索新的知识
-- **日思**    日常思考记录
-- **札记**    书影音观后感
-- **杂陈**    杂念杂感杂记
+- **拾花**    诗文随笔
+- **新知**    探索新知
+- **日思**    学而且思
+- **札记**    书影随想
+- **杂陈**    杂感杂记
 
 
 ## §我是
@@ -31,6 +31,7 @@ title: 简介
 - [Krob Krua](https://boundarytest.wordpress.com/)  
   
     
+  
     
-    
+
 鸣谢：静态网页托管服务[GitHub Pages](https://github.com/pages); 本网站模板[tmaize-blog](https://github.com/TMaize/tmaize-blog)。
