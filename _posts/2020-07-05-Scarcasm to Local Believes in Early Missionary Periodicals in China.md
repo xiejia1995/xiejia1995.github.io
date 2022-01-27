@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title:*Sarcasm to Local Believes in Early Missionary Periodicals in China
+title: Sarcasm to Local Believes in Early Missionary Periodicals in China
 categories: [日思]
 ---
 
