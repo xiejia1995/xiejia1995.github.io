@@ -52,7 +52,7 @@ plugins:
 # Permalinks
 permalink: /:year-:month-:day/:title
 paginate_path: "/dh_news/page:num/"
-paginate: 5
+paginate: 10
 exclude:
   - "Gemfile"
   - "Gemfile.lock"
