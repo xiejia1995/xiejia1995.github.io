@@ -24,15 +24,17 @@ layout: about
   * [Alliance of Digital Humanities Organizations(ADHO)](https://adho.org/)
   * [ENP-China](https://www.enpchina.eu/)
   
+
 <br/>
 
 # 实用平台
 * 综合平台
   * [Docusky](https://docusky.org.tw/DocuSky/home/v5/) 國立臺灣大學數位人文研究中心
 * 古籍研读
+  * [“汉典重光”古籍数字化平台](https://wenyuan.aliyun.com/home) 由阿里巴巴、川大、国图等共建
   * [“吾与点”古籍自动整理系统](https://wyd.kvlab.org/) 北京大学数字人文研究中心
   * [智慧古籍平台](https://csab.zju.edu.cn/) 浙江大学
-  * [“汉典重光”古籍数字化平台](https://wenyuan.aliyun.com/home) 由阿里巴巴、川大、国图等共建
+  * [籍合网](http://www.ancientbooks.cn/) 中华书局
 * GIS
   * [中国历史地理信息平台](http://timespace-china.fudan.edu.cn/) 复旦大学历史地理研究中心
   * [学术地图发布平台AMAP](http://amap.zju.edu.cn/) 浙江大学社会科学研究院与哈佛大学地理分析中心共同建设
